@@ -1,0 +1,25 @@
+Hello! Thanks for downloading my programme.
+Once you see my code, It is really cool. You can
+insert pictures, serpator lines, unlimited undo/redo and
+more! Better then X-treme Pad! Has a Web Browser, 
+Calculator, and much more!!!!
+------------------------------------------------------
+Please vote for this programme! If not, send in
+comments now at this URL:
+http://www.pscode.com/xq/ASP/txtCodeId.11752/lngWId.1/qx/vb/
+scripts/ShowCode.htm
+------------------------------------------------------
+All needed OCX's are in the zip file:
+> [OCX.zip]
+------------------------------------------------------
+The source code is in the zip file:
+> [AdvanceWordSrc.zip]
+------------------------------------------------------
+Enjoy my code and may the force of Visual Basic be with
+you!
+
+By VB Dude
+(Reynard Chan, Age 12)
+
+PS: This text file was made with Advance Word!!!
+
